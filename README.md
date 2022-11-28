@@ -1,2 +1,2 @@
 - gmail >>> bigrey13@gmail.com///                        
-- I’m currently learning python/DS/ML///                            
+- currently DS/ML engineer Sber///                            
