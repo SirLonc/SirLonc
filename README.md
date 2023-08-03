@@ -1,2 +1,1 @@
-- gmail >>> bigrey13@gmail.com///                        
-- currently DS/ML engineer Sber///                            
+ILoveIHate my neural network/
