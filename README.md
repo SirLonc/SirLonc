@@ -1,1 +1,1 @@
-ILoveIHate my neural network/
+Jestkiy Tip
